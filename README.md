@@ -1,7 +1,7 @@
 # Care Scribe
 
 [![Release Status](https://img.shields.io/pypi/v/care_scribe.svg)](https://pypi.python.org/pypi/care_scribe)
-[![Build Status](https://github.com/ohcnetwork/care_scribe/actions/workflows/build.yaml/badge.svg)](https://github.com/ohcnetwork/care_scribe/actions/workflows/build.yaml)
+[![Build Status ](https://github.com/ohcnetwork/care_scribe/actions/workflows/build.yaml/badge.svg)](https://github.com/ohcnetwork/care_scribe/actions/workflows/build.yaml)
 
 Care Scribe is a plugin for care to add voice auto fill support using external services like OpenAI whisper and Google Speech to Text.
 
